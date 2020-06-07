@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VEA4qPa4iRXjdi77/gdLPOWozxEAWv47sFL4WNvIGvzzdcyffAoa1OQS3TYy6TVQeV4RCRuu/VXq4ihuJcXKRA==",
+  "success": true,
+  "projectFilePath": "G:\\codecool\\asp.net codecool\\Comments\\WebsiteComments\\WebsiteComments\\WebsiteComments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damian\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\Damian\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.1\\system.data.sqlite.core.1.0.113.1.nupkg.sha512",
+    "C:\\Users\\Damian\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
